@@ -1,0 +1,9 @@
+../Core/Src/bmp180.c:11:9:Read8	40	static
+../Core/Src/bmp180.c:19:10:Read16	40	static
+../Core/Src/bmp180.c:27:6:Write8	32	static
+../Core/Src/bmp180.c:33:6:BMP180_SetOversampling	24	static
+../Core/Src/bmp180.c:48:6:BMP180_ReadTemperature	24	static
+../Core/Src/bmp180.c:61:6:BMP180_ReadPressure	24	static
+../Core/Src/bmp180.c:74:6:BMP180_CalculateTemperature	16	static
+../Core/Src/bmp180.c:82:6:BMP180_CalculatePressure	16	static
+../Core/Src/bmp180.c:118:9:BMP180_Init	32	static
